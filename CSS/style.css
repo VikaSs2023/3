@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{font-family: "Indie Flower", cursive;}
+nav{
+    display:flex;
+    justify-content: space-evenly
+}
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    color:#BD613C;
+}
+header{
+    background-color: #F1BAA1;
+    padding: 20px;
+}
+a:hover{ color:#BCAF4D}
+h1{
+    font-size: 65px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Playfair Display", serif
+}
+body{
+    margin-top: 0;margin-left: 0;margin-right: 0;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+p{
+    color: #BD613C;
+    font-size: 15px;
+}
+
+section{display: flex;
+    margin-bottom: 50px;
+justify-content: space-around;}
+
+article{text-align: center;
+width: 300px;
+font-size: 20px;}
+
+button{background-color:black ;
+color: aliceblue;
+font-size: 20px;
+padding: 15px;}
+
+footer{
+    background-color: #BD613C;
+    padding: 20px;
+}
+footer p{color:white;}
+
+body{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.logo{ width: 50px;
+    height: 50px;
+    }
+ .text{
+     display:flex;justify-content: space-evenly;
+ }  
+ .text2{
+     width: 30px;
+ }
+.link1::after{content: url(https://i.postimg.cc/tCSLgbGc/free-icon-font-home-3917033.png);}
+.link2::after{content: url(https://i.postimg.cc/Kj980WkH/free-icon-font-user-3917688.png);}
+.link3::after{content: url(https://i.postimg.cc/fyNv7DVD/free-icon-font-phone-call-5070407.png);}
+p:hover{
+    font-size: 30px;
+}
+
